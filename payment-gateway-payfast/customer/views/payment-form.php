@@ -55,6 +55,8 @@ echo CHtml::hiddenField( 'item_name', Yii::t( 'price_plans', 'Price plan' ).': '
 
 echo CHtml::hiddenField( 'signature', $signature );
 
+echo CHtml::hiddenField( 'user_agent', 'MailWizz 1.3' );
+
 ?>
     <p class="text-muted well well-sm no-shadow" style="margin-top: 10px;">
         Payfast - www.payfast.co.za <br />
