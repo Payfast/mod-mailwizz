@@ -2,7 +2,7 @@
 
 PAYFAST ADDON FOR MAILWIZZ 1.3.5.7
 
-Copyright (c) 2010-2015 PayFast (Pty) Ltd
+Copyright (c) 2015 - 2016 PayFast (Pty) Ltd
 
 LICENSE:
 
