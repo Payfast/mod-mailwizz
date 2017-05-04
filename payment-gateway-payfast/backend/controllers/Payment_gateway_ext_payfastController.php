@@ -8,8 +8,9 @@ defined( 'MW_PATH' ) || exit( 'No direct script access allowed' );
  * @subpackage Payment Gateway Payfast
  * @author PayFast <support@payfast.co.za>
  * @link http://www.payfast.co.za/
- * @copyright 2013-2015 PayFast (http://www.payfast.co.za)
- * @license http://www.opensource.org/licenses/
+ * Copyright (c) 2008 PayFast (Pty) Ltd
+ * You (being anyone who is not PayFast (Pty) Ltd) may download and use this plugin / code in your own website in conjunction with a registered and active PayFast account. If your PayFast account is terminated for any reason, you may not use this plugin / code or part thereof.
+ * Except as expressly indicated in this licence, you may not use, copy, modify or distribute this plugin / code or part thereof in any way.
  */
 
 class Payment_gateway_ext_payfastController extends Controller
